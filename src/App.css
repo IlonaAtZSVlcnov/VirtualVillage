@@ -1,0 +1,1 @@
+body{font-family:Arial;background:#eef2f7;margin:0}.app{max-width:1100px;margin:auto;padding:20px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}.card{background:#fff;padding:20px;border-radius:12px;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,.1)}.lesson{background:#fff;padding:20px;border-radius:12px}

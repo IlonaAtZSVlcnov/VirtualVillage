@@ -1,0 +1,1 @@
+import {useState} from "react";export default function Quiz(){const[s,setS]=useState(0);return <div><p>What do you drink in a cafe?</p><button onClick={()=>setS(s+1)}>Coffee</button><button>Car</button><p>Score: {s}</p></div>}
