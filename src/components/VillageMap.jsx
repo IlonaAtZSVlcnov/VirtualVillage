@@ -1,1 +1,1 @@
-export default function VillageMap({locations,onSelect}){return <div className="grid">{locations.map(l=><div key={l.id} className="card" onClick={()=>onSelect(l)}><h3>{l.professionEN}</h3><p>{l.category}</p></div>)}</div>}
+export default function VillageMap({locations,onSelect}){return <div className="grid">{locations.map(l=><div key={l.id} className="card" onClick={()=>onSelect(l)}><h3>{l.professionEN}</h3><p>{l.category}</p><p>{l.level} • {l.xp} XP</p></div>)}</div>}

@@ -1,1 +1,1 @@
-body{font-family:Arial}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}.card,.lesson{border:1px solid #ddd;padding:12px}.container{padding:20px}
+body{font-family:Arial;margin:0;background:#f4f4f4}.container{padding:20px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.card,.lesson{background:#fff;padding:12px;border-radius:8px;border:1px solid #ddd}.card{cursor:pointer}
