@@ -1,3 +1,3 @@
-# Webový projekt
+# Virtual Village
 
-Moderní šablona pro webovou aplikaci.
+50 professions included.
