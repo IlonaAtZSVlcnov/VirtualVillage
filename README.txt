@@ -1,0 +1,1 @@
+Replace src/data/lessons.js with this file. Contains 50 professions.
