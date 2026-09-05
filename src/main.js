@@ -1,0 +1,1 @@
+document.getElementById("app").innerHTML = "<h1>Ahoj světe</h1>";
